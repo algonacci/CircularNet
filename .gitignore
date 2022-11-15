@@ -1,3 +1,6 @@
+plastic_types_model/saved_model/checkpoint
+plastic_types_model/saved_model/saved_model
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
